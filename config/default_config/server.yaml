@@ -1,0 +1,5 @@
+url: http://localhost:2536
+port: 2536
+redirect: https://git.trss.me/Yunzai
+auth:
+https:

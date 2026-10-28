@@ -1,0 +1,7 @@
+default:
+  groupCD: 500
+  singleCD: 2000
+  onlyReplyAt: 0
+  botAlias: []
+  enable: []
+  disable: []

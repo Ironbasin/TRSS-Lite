@@ -1,0 +1,12 @@
+autoFriend: 1
+autoGroup: 0
+autoQuit: 50
+masterQQ: []
+disablePrivate: false
+disableMsg: ""
+disableAdopt:
+  - stoken
+whiteGroup: []
+whiteUser: []
+blackGroup: []
+blackUser: []

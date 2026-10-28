@@ -1,0 +1,22 @@
+log_level: info
+log_length: 10000
+log_object: true
+log_align: "  TRSSYz  "
+plugin_load_timeout: 60
+file_watch: true
+
+restart_time: 0
+restart_cron:
+stop_cron:
+start_cron:
+
+cache_group_member: true
+online_msg_exp: 1440
+file_to_url_time: 1
+file_to_url_times: 1
+msg_type_count: false
+/→#: true
+
+chromium_path:
+puppeteer_ws:
+puppeteer_timeout:
